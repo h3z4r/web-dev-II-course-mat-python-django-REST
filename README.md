@@ -1,3 +1,5 @@
+![alt text](http://m.inoglu-gruppe.de/wp-content/uploads/2017/04/001_intro.png)
+
 # Course Description
 Below are the fundamental information about this course.
 
