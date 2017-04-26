@@ -1,8 +1,11 @@
-# Course Name
+# Course Description
+Below are the fundamental information about this course.
+
+### Course
 
 Web Development II (Alternative: Advanced Web Development with Python)
 
-## Level
+### Level
 
 Undergraduate
 
