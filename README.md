@@ -1,19 +1,19 @@
 # Course Description
 Below are the fundamental information about this course.
 
-### Course
+## Course
 
 Web Development II (Alternative: Advanced Web Development with Python)
 
-### Level
+## Level
 
 Undergraduate
 
-### Course Description
+## Course Description
 
 An advanced web development course in which students build their web applications using Python, Django, Django REST Framework and AngularJS.
 
-#### Course requirements
+## Course requirements
 
 You already took courses listed below:
 
