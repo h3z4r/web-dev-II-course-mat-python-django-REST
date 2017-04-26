@@ -10,9 +10,9 @@ Undergraduate
 
 An advanced web development course in which students build their web applications using Python, Django, Django REST Framework and AngularJS.
 
-#### Prerequisites
+#### Course requirements
 
-What things you need to install the software and how to install them
+You already took courses listed below:
 
 ```
 Introduction to computer science and programming
@@ -23,16 +23,31 @@ Operating Systems (with Linux Fundamentals Assignments)
 ```
 Computer Networks
 ```
+```
+Web Development I (Introduction to web development)
+```
 
 #### Lectures
 
-This course will take 15 weeks to complete
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+This course will take 15 weeks and 30 lectures (1,5 hours/session) to complete
 
 ```
-Give the example
+Week 01:
+```
+```
+Week 02:
+```
+```
+Week 02:
+```
+```
+Week 03:
+```
+```
+Week 04:
+```
+```
+Week 05:
 ```
 
 And repeat
