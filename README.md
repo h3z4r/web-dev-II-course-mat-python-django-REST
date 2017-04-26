@@ -1,5 +1,8 @@
 ![alt text](http://m.inoglu-gruppe.de/wp-content/uploads/2017/04/001_intro.png)
 
+# Project Description
+This repository is created for tutors who are planning to teach web development course and include fundamental course materials. Tutors can clone this repository and edit it for their needs.
+
 # Course Description
 Below are the fundamental information about this course.
 
